@@ -1,6 +1,6 @@
-//Boolean Parenthesization Problem | DP-37
+//matric chain multiplication
 import java.util.*;
-public class prob_3{
+public class matrixChain{
 
 	
 	public static void main(String[] args){
@@ -8,5 +8,10 @@ public class prob_3{
 		
 	}
 
+	private static void chain(int[] size){
+
+
+
+	}
 
 }
