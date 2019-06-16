@@ -1,0 +1,182 @@
+Dynamic Programming Problems
+
+Simple array dp
+Problem	Score	Companies	Time	Status
+*Length of Longest Subsequence	200	
+58:22	
+*Largest area of rectangle with permutations	200	
+60:59	
+*Ways to Decode	225	
+Amazon
+62:42	
+*Stairs	225	
+Morgan StanleyAmazonIntel
+14:08	
+*Intersecting Chords in a Circle	300	
+58:15	
+
+
+
+Greedy or dp
+Problem	Score	Companies	Time	Status
+*Tushar's Birthday Bombs	200	
+78:13	
+*Jump Game Array	225	
+AmazonEbay
+36:18	
+*Min Jumps Array	300	
+AmazonEbay
+60:24	
+
+
+Dp tricky
+Problem	Score	Companies	Time	Status
+*Longest Arithmetic Progression	200	
+60:15	
+*N digit numbers with digit sum S	200	
+58:13	
+*Ways to color a 3xN Board	200	
+Codenation
+59:46	
+*Shortest common superstring	200	
+73:08	
+*Kth Manhattan Distance Neighbourhood	200	
+Liv.ai
+63:21	
+*Coins in a Line	300	
+51:29	
+*Evaluate Expression To True	350	
+Amazon
+66:05	
+*Longest valid Parentheses	700	
+47:30	
+*Best Time to Buy and Sell Stocks III	700	
+Amazon
+49:00	
+
+====================================>12th June,2019
+
+
+Suffix / prefix dp
+Problem	Score	Companies	Time	Status
+Sub Matrices with sum Zero	200	
+73:28	
+Coin Sum Infinite	225	
+55:42	
+Best Time to Buy and Sell Stocks I	300	
+Amazon
+25:31	
+Max Product Subarray	300	
+Amazon
+56:33	
+Arrange II	350	
+Amazon
+70:02	
+Adhoc
+Problem	Score	Companies	Time	Status
+Largest area of rectangle with permutations	200	
+60:59	
+Best Time to Buy and Sell Stocks II	225	
+Amazon
+35:30	
+
+
+Knapsack
+Problem	Score	Companies	Time	Status
+N digit numbers with digit sum S	200	
+58:13	
+Tushar's Birthday Party	200	
+Snapdeal
+59:55	
+Flip Array	200	
+81:08	
+Equal Average Partition	350	
+Amazon
+84:08	
+
+
+
+Derived dp
+Problem	Score	Companies	Time	Status
+Max Sum Without Adjacent Elements	225	
+Epic systems
+51:17	
+2d string dp
+Problem	Score	Companies	Time	Status
+Edit Distance	300	
+Amazon
+41:21	
+Longest Increasing Subsequence	300	
+Epic systemsAmazon
+28:12	
+Repeating Sub-Sequence	300	
+54:06	
+Distinct Subsequences	325	
+52:04	
+Interleaving Strings	500	
+49:27	
+Regular Expression Match	500	
+63:10	
+Regular Expression II	500	
+59:05	
+Scramble String	500	
+56:08	
+
+
+
+Matrix dp
+Problem	Score	Companies	Time	Status
+Min Sum Path in Matrix	300	
+Amazon
+27:47	
+Dungeon Princess	300	
+57:32	
+Min Sum Path in Triangle	300	
+37:48	
+Unique Paths in a Grid	300	
+29:41	
+Max Rectangle in Binary Matrix	350	
+64:39	
+Rod Cutting	350	
+76:21	
+Queen Attack	350	
+74:21	
+
+
+
+Multiply dp
+Problem	Score	Companies	Time	Status
+Intersecting Chords in a Circle	300	
+58:15	
+Unique Binary Search Trees II	400	
+AmazonSamsung
+30:12	
+Count Permutations of BST	400	
+78:46	
+Preprocess dp
+Problem	Score	Companies	Time	Status
+Max Rectangle in Binary Matrix	350	
+64:39	
+Dp optimized backtrack
+Problem	Score	Companies	Time	Status
+Word Break II	350	
+IBM
+54:38	
+
+
+
+Tree dp
+Problem	Score	Companies	Time	Status
+Max Sum Path in Binary Tree	400	
+DirectiAmazon
+47:17	
+Breaking words
+Problem	Score	Companies	Time	Status
+Word Break	400	
+IBM
+51:17	
+Palindrome Partitioning II	400	
+Amazon
+47:59	
+Scramble String	500	
+56:08
